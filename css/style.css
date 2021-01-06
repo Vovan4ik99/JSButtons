@@ -1,0 +1,16 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    align-items: center;
+}
+button {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid red;
+    color: white;
+    background-color: rgb(224, 91, 91);
+}
